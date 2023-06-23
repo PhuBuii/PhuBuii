@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **buiquangphu.work@gmail.com**
 
-- ⚡ Fun fact **I think I am energentic**
+- ⚡ Fun fact **I think I am energetic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
