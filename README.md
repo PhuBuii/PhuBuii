@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Phu Bui</h1>
 <h3 align="center">A passionate AI and Web developer from VietNam</h3>
-<img align="right" alt="coding" width ="400" src="https://png.pngtree.com/png-vector/20240320/ourlarge/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png" >
+<img align="right" alt="coding" width ="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png" >
 
 - 🌱 I’m currently learning **Full-stack web and Machine Learning Ops**
 
