@@ -1,45 +1,57 @@
-# Hi 👋, I'm Phu Bui (Bui Quang Phu)
-<h3 align="center">💻 Fullstack Developer & AI Enthusiast | Transitioning to Middle Role</h3>
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://phubuii-porfolio.vercel.app)
 
-<p align="center">
-  <a href="https://phubuii-porfolio.vercel.app">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubuii&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Phu Bui</h1>
+<h3 align="center">💻 Fullstack & AI Developer | Passionate about creating intelligent web experiences</h3>
 
----
+<img align="right" alt="coding" width="380" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png" />
 
-### 🚀 About Me
-- [cite_start]🎓 **Academic Excellence:** Computer Science Graduate from **University of Information Technology (UIT)** with a **GPA of 8.65/10**[cite: 10, 11, 12].
-- 👨‍💻 **Professional Experience:** 1.5+ years of building scalable enterprise systems and innovative web solutions at **DVA Group** and **Poha Tech**.
-- ⚡ **Fast Learner:** Proven ability to master new technology stacks (**Vue.js, Pinia, GraphQL, Hasura**) in just **4 days** to deliver high-impact enterprise modules.
-- 🤝 **Mentorship:** Actively **mentored junior developers** on Frontend best practices and code quality standards.
-- 🎯 **Current Focus:** Deepening expertise in **Backend Architecture (Node.js)** and **AIoT solutions** to build intelligent, automated ecosystems.
+🌱 **Currently learning:** Full-stack Web Development & Machine Learning Ops  
+🚀 **Portfolio:** [https://phubuii-porfolio.vercel.app/](https://phubuii-porfolio.vercel.app/)  
+👨‍💻 **All my projects:** [GitHub @PhuBuii](https://github.com/PhuBuii)  
+📫 **Reach me at:** [buiquangphu.work@gmail.com](mailto:buiquangphu.work@gmail.com)  
+⚡ **Fun fact:** I’m driven by curiosity and energy — I love turning ideas into real-world projects!
 
 ---
 
-### 🛠️ Technical Ecosystem
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, **Vue.js (Pinia)**, TailwindCSS, Framer Motion, Three.js |
-| **Backend** | **Node.js (Express)**, **GraphQL (Hasura)**, RESTful API, Python (Flask) |
-| **Database** | MongoDB, Microsoft SQL Server, Firebase |
-| **AI / ML** | TensorFlow, Python, YOLO, VGG16, EfficientNet |
-| **Tools** | Git, Docker, Agile/Scrum (Jira), Linux, Spine 2D |
-
-
-### 📈 GitHub Activities
+### 🌐 Connect with me:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phubuii&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://fb.com/quangphubuii" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangphubuii" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/quangphubui" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quangphubui" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-### 📫 Let's Connect!
-- [cite_start]**Email:** [buiquangphu.work@gmail.com](mailto:buiquangphu.work@gmail.com) [cite: 3]
-- **Portfolio:** [phubuii-porfolio.vercel.app](https://phubuii-porfolio.vercel.app/)
-- **LinkedIn:** [Bui Quang Phu](https://www.linkedin.com/in/quang-ph%C3%BA-b%C3%B9i-567a19253/)
-- [cite_start]**Certifications:** TOEIC 700+ Proficiency [cite: 28]
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
 
-<h3 align="center">✨ “Building scalable systems and intelligent experiences — one commit at a time.” ✨</h3>
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubuii&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+<h3 align="center">✨ “Building meaningful software — one commit at a time.” ✨</h3>
+
+dựa và CV của tôi hãy giúp tôi build lại Readme.md của github của tôi
