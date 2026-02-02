@@ -43,15 +43,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubuii&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 <h3 align="center">✨ “Building meaningful software — one commit at a time.” ✨</h3>
 
 dựa và CV của tôi hãy giúp tôi build lại Readme.md của github của tôi
