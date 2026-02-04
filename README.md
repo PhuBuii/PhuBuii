@@ -1,48 +1,69 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://phubuii-porfolio.vercel.app)
+<div align="center">
+  <a href="https://portfolio.phubuii.site/">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  </a>
+  
+  # Hi there! 👋 I'm Phu Bui
+  
+  ###  Software Engineer | Frontend Developer | AI Enthusiast 
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-phubuii.site-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.phubuii.site/)
+  [![Email](https://img.shields.io/badge/Email-buiquangphu.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buiquangphu.work@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-ph%C3%BA-b%C3%B9i-567a19253/)
 
-<h1 align="center">Hi 👋, I'm Phu Bui</h1>
-<h3 align="center">💻 Fullstack & AI Developer | Passionate about creating intelligent web experiences</h3>
-
-<img align="right" alt="coding" width="380" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png" />
-
-🌱 **Currently learning:** Full-stack Web Development & Machine Learning Ops  
-🚀 **Portfolio:** [https://phubuii-porfolio.vercel.app/](https://phubuii-porfolio.vercel.app/)  
-👨‍💻 **All my projects:** [GitHub @PhuBuii](https://github.com/PhuBuii)  
-📫 **Reach me at:** [buiquangphu.work@gmail.com](mailto:buiquangphu.work@gmail.com)  
-⚡ **Fun fact:** I’m driven by curiosity and energy — I love turning ideas into real-world projects!
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://fb.com/quangphubuii" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quangphubuii" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/quangphubui" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quangphubui" height="30" width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="center">✨ “Building meaningful software — one commit at a time.” ✨</h3>
+I am a passionate **Fullstack Developer** with a strong background in **Computer Science** (GPA 8.65/10 from UIT - VNU-HCM). unique blend of frontend craftsmanship and backend architecture.
 
-dựa và CV của tôi hãy giúp tôi build lại Readme.md của github của tôi
+With **2+ years of hands-on experience**, I have honed my skills at **Poha Tech** and currently at **DVA Groups**, where I contribute to building complex enterprise ecosystems including Admin tools, POS systems, and CRM solutions.
+
+My journey is defined by **fast adaptability** and a relentless **spirit of learning**. I am deeply invested in mastering **Backend Architecture** while maintaining a sharp eye for **Frontend** details, aiming to evolve into a well-rounded **Middle Fullstack Developer** who bridges the gap between traditional web development and modern AI solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend & API
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🤖 AI & Others
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhuBuii&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuBuii&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- **Portfolio**: [portfolio.phubuii.site](https://portfolio.phubuii.site/)
+- **Email**: [buiquangphu.work@gmail.com](mailto:buiquangphu.work@gmail.com)
+- **GitHub**: [@PhuBuii](https://github.com/PhuBuii)
